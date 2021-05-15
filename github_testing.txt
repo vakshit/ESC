@@ -1,1 +1,2 @@
 This is just a testing file.
+This is line 2 of the file.
